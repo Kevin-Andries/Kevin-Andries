@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Kevin Andries
 
-Experienced Full Stack Developer with a solid foundation in the JS ecosystem - JavaScript, TypeScript, React, and Node.js.  
+Experienced Full Stack Developer with a solid foundation in the JS ecosystem - **JavaScript**, **TypeScript**, **React**, and **Node.js**.  
 
-While my expertise lies in web development, I've dabbled in various areas of software engineering, including mobile. I have a proven track record in integrating AI models and APIs into web applications, with a strong focus on crafting high-quality code.  
+While my expertise lies in web development, I've dabbled in various areas of software engineering, including mobile. I have a proven track record in integrating **AI models** and APIs into web applications, with a strong focus on crafting high-quality code.  
 
 My clients are my top priority, and I strive to deliver exceptional results that exceed their expectations. Let's innovate together!
 <br/>
